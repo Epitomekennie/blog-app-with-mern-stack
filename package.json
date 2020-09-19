@@ -1,0 +1,11 @@
+{
+"name": "blog",
+"version": "1.0.0",
+"author": "Fasunle Kehinde Hussein <fasunlekehinde11@gmail.com>",
+"description": "A MERN stack blog app",
+"repositories": "https://github.com/Epitomekennie",
+"dependencies": {
+"react": "16.13.1",
+"react-dom": "16.13.1",
+},
+}
