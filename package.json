@@ -1,5 +1,6 @@
 {
 "name": "blog",
+"main": "./src/index.js",
 "version": "1.0.0",
 "author": "Fasunle Kehinde Hussein <fasunlekehinde11@gmail.com>",
 "description": "A MERN stack blog app",
